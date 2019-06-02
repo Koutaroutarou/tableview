@@ -14,6 +14,7 @@
 		F941E7D422A457C2005447A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F941E7D222A457C2005447A9 /* LaunchScreen.storyboard */; };
 		F941E7DF22A457C2005447A9 /* tableviewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F941E7DE22A457C2005447A9 /* tableviewTests.swift */; };
 		F941E7EA22A457C2005447A9 /* tableviewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F941E7E922A457C2005447A9 /* tableviewUITests.swift */; };
+		F941E7F822A45862005447A9 /* RansuuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F941E7F722A45862005447A9 /* RansuuTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F941E7E522A457C2005447A9 /* tableviewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tableviewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F941E7E922A457C2005447A9 /* tableviewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableviewUITests.swift; sourceTree = "<group>"; };
 		F941E7EB22A457C2005447A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F941E7F722A45862005447A9 /* RansuuTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RansuuTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				F941E7C922A457C0005447A9 /* AppDelegate.swift */,
 				F941E7CB22A457C0005447A9 /* ViewController.swift */,
+				F941E7F722A45862005447A9 /* RansuuTableViewController.swift */,
 				F941E7CD22A457C0005447A9 /* Main.storyboard */,
 				F941E7D022A457C2005447A9 /* Assets.xcassets */,
 				F941E7D222A457C2005447A9 /* LaunchScreen.storyboard */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F941E7CC22A457C0005447A9 /* ViewController.swift in Sources */,
+				F941E7F822A45862005447A9 /* RansuuTableViewController.swift in Sources */,
 				F941E7CA22A457C0005447A9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
